@@ -22,3 +22,6 @@ Here are some ideas to get you started:
 - 📫 My E-mail: yk534764132@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=yy-0818)
