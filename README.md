@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=yy-0818)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yy-0818)](https://git.io/streak-stats)
